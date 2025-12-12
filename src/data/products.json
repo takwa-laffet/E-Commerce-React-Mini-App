@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 89.99,
+    "image": "https://m.media-amazon.com/images/I/61RahTQtAqL._AC_UF894,1000_QL80_.jpg",
+    "description": "Premium wireless headphones with noise cancellation.",
+    "category": "audio"
+  },
+  {
+    "id": 2,
+    "title": "Smartwatch Series 5",
+    "price": 149.99,
+    "image": "https://tunewtec.com/wp-content/uploads/2022/09/apple-watch-series-5-gps-40-mm.jpg",
+    "description": "Track your heart rate, steps, and more.",
+    "category": "wearables"
+  },
+  {
+    "id": 3,
+    "title": "Bluetooth Speaker",
+    "price": 59.99,
+    "image": "https://m.media-amazon.com/images/I/71hvGkBMFNL._AC_SL1500_.jpg",
+    "description": "Portable speaker with amazing sound quality.",
+    "category": "audio"
+  },
+  {
+    "id": 4,
+    "title": "Gaming Mouse",
+    "price": 39.99,
+    "image": "https://m.media-amazon.com/images/I/61AcT0ZuO3L._AC_SL1500_.jpg",
+    "description": "High precision gaming mouse with customizable buttons.",
+    "category": "accessories"
+  },
+  {
+    "id": 5,
+    "title": "Mechanical Keyboard",
+    "price": 79.99,
+    "image": "https://m.media-amazon.com/images/I/71fRP7KY9hL._AC_SL1500_.jpg",
+    "description": "Durable mechanical keyboard with RGB backlight.",
+    "category": "accessories"
+  },
+  {
+    "id": 6,
+    "title": "HD Webcam",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/71eGb1FcyiL.jpg",
+    "description": "1080p webcam for streaming and meetings.",
+    "category": "video"
+  },
+  {
+    "id": 7,
+    "title": "Noise-Cancelling Earbuds",
+    "price": 99.99,
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2025/05/BEST-NOISE-CANCELLING-HEADPHONES-8255.jpg?auto=webp&quality=75&width=1024",
+    "description": "Compact earbuds with excellent sound and ANC.",
+    "category": "audio"
+  },
+  {
+    "id": 8,
+    "title": "Portable Charger 20,000mAh",
+    "price": 34.99,
+    "image": "https://spacenet.tn/220989-large_default/power-bank-trust-20000-mah-15w-noir.jpg",
+    "description": "High capacity power bank with fast charging.",
+    "category": "accessories"
+  },
+  {
+    "id": 9,
+    "title": "Fitness Band",
+    "price": 29.99,
+    "image": "https://m.media-amazon.com/images/I/316-aiaqCVL._SR290,290_.jpg",
+    "description": "Lightweight fitness band for daily activity tracking.",
+    "category": "wearables"
+  },
+  {
+    "id": 10,
+    "title": "4K Action Camera",
+    "price": 129.99,
+    "image": "https://media1.lofficielshop.tn/fr/7072-large_default/camera-acme-vr06-ultra-hd-4k-srtaction.jpg",
+    "description": "Durable action camera for outdoor adventures.",
+    "category": "video"
+  }
+]
